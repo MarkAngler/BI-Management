@@ -17,7 +17,7 @@
 
 ### 4. Cultivating a Positive Organizational Culture
 - Promoting a culture where employees feel they have more to gain than lose is essential. This includes recognition of achievements, transparent communication, and a supportive environment that encourages risk-taking and learning from failures. Such a culture nurtures employee engagement, loyalty, and a sense of belonging.
-- Foster inclusivity and cultural awareness, key to achieving a positive and diverse workplace.
+- Foster inclusivity and cultural awareness, a key to achieving a positive and diverse workplace.
 - Inspire and motivate employees by creating and communicating a compelling vision of the future.
 
 ### 5. Applying the Theory of Constraints for Continuous Improvement
