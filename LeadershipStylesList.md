@@ -1,3 +1,5 @@
+An article describing the various forms of leadership, good and bad.
+
 1. **Autocratic Leadership**: This style is characterized by individual control over all decisions with minimal input from team members. Autocratic leaders typically make choices based on their judgments and ideas, rarely accepting advice from followers.
 
 2. **Democratic Leadership**: Also known as participative leadership, this style involves the leader including one or more employees in the decision-making process. However, the leader maintains the final decision-making authority.
